@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lFL1QTLk9cSbiM2BUMU7tcINryYtZ6C8mvIgSc8+HYhF3L6bIZALbgnchcpgQ3WFanErkT1U3aRa/ho9PRDl+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LEANDRO\\source\\repos\\Meu projeto\\Meu projeto\\Meu projeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LEANDRO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}
